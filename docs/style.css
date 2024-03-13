@@ -1,0 +1,40 @@
+body {
+    background: #ffff;
+    text-align: center;
+}
+.wrap {
+    background: #aaa;
+    margin: 0 auto;
+    display: inline-block;
+    overflow: hidden;
+
+}
+.product {
+  display: inline-block;
+  margin: 10px;
+  width: 350px;
+  text-align: center;
+}
+
+.product img {
+  width: 70%;
+  height: centr;
+}
+
+h1 {
+    text-align:center;
+}
+
+.product h2 {
+  margin: 10px 0;
+}
+
+
+.product a {
+  display: block;
+  padding: 10px;
+  background-color: #0088cc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 15px;
+}
